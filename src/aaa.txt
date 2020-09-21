@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 222222
-=======
 111111
->>>>>>> branch 'master' of https://github.com/angelkjh7/hello_world
 a
 EE1
 SS1
